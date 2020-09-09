@@ -4,3 +4,13 @@
    3.public static void main(String[] args)是所有java程序的入口，格式固定。args可以自行更改。
    4.java代码每行结尾时使用；结束。
    5.java代码块用{}括起来。
+
+JAVA注释
+   单行注释：//
+   多行注释：/**/
+   文档注释：/**  
+            *
+            */
+
+数据类型和运算符
+   
