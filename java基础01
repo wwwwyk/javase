@@ -1,0 +1,6 @@
+注意：
+   1.java文件的名称必须跟public class的名称保持一致
+   2.一个java文件中可以包含多个class，但是public class只能有一个
+   3.public static void main(String[] args)是所有java程序的入口，格式固定。args可以自行更改。
+   4.java代码每行结尾时使用；结束。
+   5.java代码块用{}括起来。
